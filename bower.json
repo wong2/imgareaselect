@@ -1,0 +1,26 @@
+{
+  "name": "imgareaselect",
+  "version": "1.0.0",
+  "homepage": "https://github.com/wong2/imgareaselect",
+  "authors": [
+    "wong2 <wonderfuly@gmail.com>"
+  ],
+  "description": "ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image.",
+  "main": "dist/jquery.imgareaselect.js",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "image",
+    "crop",
+    "select",
+    "cropper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
